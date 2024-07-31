@@ -1,5 +1,6 @@
 ```
 Thanks to the pioneering work of the authors of DeepDTA
+The algorithm architecture of the one-dimensional convolutional attention block is inspired by VIT and SCTNet. Thanks to the outstanding work of the authors of VIT and SCTNet.
 ```
 # Resources:
 
